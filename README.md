@@ -1,3 +1,4 @@
 # Hand Tracking Stuff Using Mediapipe
 
-<a href="https://github.com/google/mediapipe">Mediapipe's github</a>
+<a href="https://github.com/google/mediapipe">Github</a><br>
+<a href="https://google.github.io/mediapipe/">Reference</a><br>
